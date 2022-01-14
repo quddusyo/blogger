@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Test",
+      "datetime": "January 14, 2022 12:00:59 AM",
+      "body": "ty"
+    },
+    {
+      "id": 2,
+      "title": "mhm",
+      "datetime": "January 14, 2022 12:06:06 AM",
+      "body": "tyyyayooo"
+    },
+    {
+      "id": 3,
+      "title": "tyokay?",
+      "datetime": "January 14, 2022 1:09:44 AM",
+      "body": "dfdf"
+    }
+  ]
+}

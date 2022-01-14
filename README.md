@@ -1,3 +1,20 @@
+to run this you will need:
+$npm i date-fns
+$npm i react-icons
+$npm i axios
+$npm i react-router-dom
+
+on SEPARATE terminal run:
+$npx json-server -p 3500 -w data/db.json
+
+after that to start code run:
+$npm start
+
+Implemented:
+Custom hooks,
+router hooks & links,
+basic CRUD functionality for posts.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
