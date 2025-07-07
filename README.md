@@ -1,17 +1,17 @@
-# 📝 Blogger
+# Blogger (Blogging App)
 
 A full-stack blogging platform built using the MERN (MongoDB, Express, React, Node.js) stack. This application allows users to create, edit, and manage blog posts with a sleek and intuitive interface.
 
 ---
 
-## 🌟 Features
+## Features
 
-- ✍️ Create, edit, and delete blog posts
-- 🔒 User authentication & protected routes
-- 🗂️ View a list of all blog entries
-- 🎨 Responsive and modern design
-- 📅 Timestamps on posts
-- 🧱 RESTful API architecture
+-  Create, edit, and delete blog posts
+-  User authentication & protected routes
+-  View a list of all blog entries
+-  Responsive and modern design
+-  Timestamps on posts
+-  RESTful API architecture
 
 ---
 
@@ -24,7 +24,7 @@ A full-stack blogging platform built using the MERN (MongoDB, Express, React, No
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
